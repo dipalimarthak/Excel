@@ -1,7 +1,11 @@
 "Steps done:,,,,,,,,,,,,
-Pivot 1. Changed 'View field setting' for Revenue per country to 'Grand % total' instead of 'Sum',,,,,,,,,,,,
+Pivot 1. Changed 'View field setting' for Revenue per country to 'Grand % total' instead of 'Sum'
+
+,,,,,,,,,,,,
 Pivot 2. Added Calculated field (deriving profit),,,,,,,,,,,,
+
 Pivot 3: Added Filter on Gender,,,,,,,,,,,,
+
 Pivot 4: plot rows(country) and columns(year) ",,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
